@@ -2,6 +2,8 @@
 This is an Excel project focused on real-time data collection, data transformation through Power Query, and data visualization.
 ## Exciting Insights from a Gen Z Career Aspiration Project! 🌟
 
+![Gen Z dashboard](https://github.com/MelvinAgastin/Excel_Project-Gen_Z_Career_Aspiration/assets/140557465/dd1a8d33-a8d0-415d-b9bb-ce4c0deec9b6)
+
 **🔹 Project Overview:**
     Conducted an in-depth analysis on the career aspirations of Gen Z individuals in India, deciphering their mindset towards personal growth and the evolving professional landscape.
 
